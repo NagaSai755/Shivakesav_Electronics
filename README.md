@@ -1,10 +1,10 @@
-# SHIVAKESHAVA ELECTRONICS - Service Management System
+# SHIVAKESAVA ELECTRONICS - Service Management System
 
-A comprehensive electronic appliance service center management application built for SHIVAKESHAVA ELECTRONICS.
+A comprehensive electronic appliance service center management application built for SHIVAKESAVA ELECTRONICS.
 
 ## Company Information
 
-**SHIVAKESHAVA ELECTRONICS**  
+**SHIVAKESAVA ELECTRONICS**  
 Electronic Appliance Service & Repair Center  
 Dr. No 29-14-62, 2nd Floor, Beside Andhra Hospital  
 Seshadri Sastri Street, Governorpet, Vijayawada – 2  
